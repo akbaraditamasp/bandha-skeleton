@@ -1,7 +1,7 @@
 {
   "name": "bandha-skeleton",
   "version": "1.0.0",
-  "description": "",
+  "description": "Skeleton project for Bandha.js",
   "main": "index.js",
   "scripts": {
     "flash": "bandha build && mcconfig -m -dl -p",
